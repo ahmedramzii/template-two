@@ -13,12 +13,15 @@ The goal of the challenge was to create a responsive landing page that matches t
 - CSS
 - Flexbox
 - CSS Grid
+- Font Awesome
+- Google Fonts
 
 ## 📚 What I Practiced
 
 - Building a responsive landing page layout
 - Using Flexbox and CSS Grid together
-- Structuring HTML elements properly
+- Using Font Awesome icons
+- Working with Google Fonts
 - Writing clean and organized CSS
 
 ## 👤 Author
